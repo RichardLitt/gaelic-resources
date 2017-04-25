@@ -1,4 +1,4 @@
-# gaelic-resources
+# Gaelic Resources
 A list of computational resources for Gaelic
 
 ## Corpora
