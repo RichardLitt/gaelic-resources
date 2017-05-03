@@ -1,5 +1,7 @@
 # Gaelic Resources
-A list of computational resources for Gaelic
+A list of computational resources for Gaelic.
+
+This list has grown out of https://github.com/RichardLitt/endangered-languages, my list for all open source resources for low resource languages. I'm particularly interested in Gaelic, going forward. 
 
 ## Corpora
 
