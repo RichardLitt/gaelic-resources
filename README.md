@@ -3,6 +3,12 @@ A list of computational resources for Gaelic.
 
 This list has grown out of https://github.com/RichardLitt/endangered-languages, my list for all open source resources for low resource languages. I'm particularly interested in Gaelic, going forward. 
 
+## Tools
+
+### [Hunspell-gd](https://github.com/kscanne/hunspell-gd)
+
+Kevin Scannell has a repository with data files and scripts for building Scottish Gaelic spell checkers. This script was started through [the Crúbadán project](http://crubadan.org/). GPL Licensed. This [hunspell-gd repo](https://github.com/gooselinux/hunspell-gd) is likely derivative.
+
 ## Corpora
 
 ### [Annotated Reference Corpus of Scottish Gaelic (ARCOSG)](http://datashare.is.ed.ac.uk/handle/10283/2011)
